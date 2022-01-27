@@ -1,7 +1,7 @@
 <template>
   <main class="qr">
     <figure class="qr-code">
-      <img class="qr-code-img" src="../assets/image-qr-code.png" />
+      <img class="qr-code-img" src="../assets/image-qr-code.png" alt="" />
     </figure>
     <section class="qr-section">
       <h1 class="qr-heading">Improve your front-end skills by building projects</h1>

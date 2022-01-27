@@ -18,6 +18,8 @@ export default {
 
 html {
   font-family: Outfit, Helvetica, Arial, sans-serif;
+  src: local('Outfit'), local('Outfit'), url(https://fonts.googleapis.com/css?family=Outfit) format('woff2');
+  font-display: swap;
 }
 
 body {
